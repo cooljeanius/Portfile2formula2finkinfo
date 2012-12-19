@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'Portfile2formula2finkinfo-Converter-Objc' target in the 'Portfile2formula2finkinfo-Converter-Objc' project.
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+#endif
